@@ -1,13 +1,28 @@
 ## Maya Abdallah
 
-**Who I am**  
-Media & Communication student at the American University of Beirut, with a minor in Marketing. I'm interested in how technology intersects with media strategy and brand communication — and I build tools that sit at that intersection.
+Media & Communication · AUB · Minor in Marketing
 
-**What I work on**  
-I design and build marketing technology products. My current project is [DCI](https://github.com/mayaabdallah/DCI), a SaaS marketing intelligence platform with campaign analytics, AI strategy, content planning, copy analysis, and ad mutation — built from scratch.
+---
 
-**Tools I use**  
-Python · Flask · React · TypeScript · Tailwind · SQLite · Stripe · Claude API · Meta Ads API
+### About
 
-**Reach me**  
-[mayaabdallah28@gmail.com](mailto:mayaabdallah07@outlook.com) · [LinkedIn](https://linkedin.com/in/mayaabdallah)
+I'm a media student at the American University of Beirut with a focus on digital marketing strategy. I build technology tools that sit at the intersection of media, marketing, and software — things that solve real problems for brands and communicators.
+
+---
+
+### What I work on
+
+Currently building **DCI** — a SaaS marketing intelligence platform with campaign analytics, AI strategy, Stripe billing, content planning, copy analysis, and ad mutation. Built from scratch as a solo project.
+
+---
+
+### Tools I use
+
+`Python` `Flask` `React` `TypeScript` `Tailwind` `SQLite` `Stripe` `Claude API` `Meta Ads API`
+
+---
+
+### Reach me
+
+[mayaabdallah07@outlook.com](mailto:mayaabdallah07@outlook.com) · [LinkedIn](https://linkedin.com/in/mayaabdallah)
+
