@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+<title id="title">Maya — Software for marketing and creative work</title>
+<desc id="desc">Dark editorial banner with lime accents and a geometric grid.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#252e34" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="400" rx="20" fill="#10181c"/>
+<rect x="870" y="0" width="410" height="400" fill="url(#grid)"/>
+<path d="M56 53H94" stroke="#c5f277" stroke-width="5"/>
+<text x="110" y="59" fill="#c5f277" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">MAYA / SOFTWARE DEVELOPER</text>
+<text x="56" y="150" fill="#f4f5ef" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Built for the work.</text>
+<text x="56" y="222" fill="#f4f5ef" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Designed for the people.</text>
+<text x="59" y="278" fill="#b2bfc2" font-family="Arial, Helvetica, sans-serif" font-size="23">Software for marketing &amp; creative workflows.</text>
+<path d="M56 320H816" stroke="#354247"/>
+<text x="59" y="356" fill="#b2bfc2" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">JAVASCRIPT + PYTHON</text>
+<text x="630" y="356" fill="#b2bfc2" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">BASED IN LEBANON</text>
+<rect x="950" y="94" width="210" height="210" rx="28" fill="#162126" stroke="#46544d"/>
+<rect x="982" y="126" width="146" height="146" rx="12" fill="#c5f277"/>
+<path d="M1016 201H1094M1062 169L1094 201L1062 233" fill="none" stroke="#17231b" stroke-width="12" stroke-linecap="square" stroke-linejoin="miter"/>
+<circle cx="1160" cy="94" r="9" fill="#c5f277"/>
+</svg>
