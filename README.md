@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Maya — Software for marketing and creative workflows" width="100%" />
-</p>
-
 I build tools that make marketing and creative work easier: from producing launch visuals to keeping campaign tracking consistent. My work combines product interfaces, practical automation, and attention to the details that make software useful.
 
 ### Selected work
